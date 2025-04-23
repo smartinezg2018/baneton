@@ -86,6 +86,15 @@
 }
 
 
+.item-anchor{
+  text-decoration: none; 
+  color: #000000;
+
+}
+.item-anchor:hover{
+  color: #00000094;
+
+}
 
 html {
   scroll-behavior: smooth;
@@ -3721,7 +3730,7 @@ textarea.form-control-lg {
   }
 }
 .nav-link:hover, .nav-link:focus {
-  color: var(--bs-nav-link-hover-color);
+  color: #00000079;
 }
 .nav-link.disabled {
   color: var(--bs-nav-link-disabled-color);
