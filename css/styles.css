@@ -105,7 +105,7 @@ html {
   align-items: left;
   cursor: pointer;
   width: auto;  /* Adjust size */
-  height: 80px;  /* Maintain aspect ratio */
+  height: 120px;  /* Maintain aspect ratio */
   border-radius: 8px;
   margin-top: 2px;
   margin-bottom: 2px;
