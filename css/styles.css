@@ -100,12 +100,13 @@ html {
   scroll-behavior: smooth;
 }
 #navbar__logo{
-  flex-shrink: 1000;
+  /* flex-shrink: 1000; */
   display: flex;
   align-items: left;
   cursor: pointer;
   width: auto;  /* Adjust size */
-  height: 13vw;  /* Maintain aspect ratio */
+  height: 80px;  /* Maintain aspect ratio */
+
   border-radius: 8px;
   margin-top: 2px;
   margin-bottom: 2px;
@@ -3823,7 +3824,7 @@ textarea.form-control-lg {
 }
 
 .navbar {
-  min-width: 250px;
+  min-width: 180px;
   flex-shrink: 0;
   --bs-navbar-padding-x: 0;
   --bs-navbar-padding-y: 0.5rem;
