@@ -3823,7 +3823,8 @@ textarea.form-control-lg {
 }
 
 .navbar {
-  min-width: 500px;
+  min-width: 250px;
+  flex-shrink: 0;
   --bs-navbar-padding-x: 0;
   --bs-navbar-padding-y: 0.5rem;
   
